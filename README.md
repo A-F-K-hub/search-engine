@@ -1,1 +1,1 @@
-# Simple Search Engine using Javascript
+# Simple Search Engine using Javascript.
